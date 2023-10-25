@@ -33,7 +33,7 @@ func TestHandler(t *testing.T) {
 		},
 		{
 			label: "override",
-			want:  "Goodbye Beyoncé!\n",
+			want:  "Hola Beyoncé!\n",
 			name:  "Beyoncé",
 		},
 	}
